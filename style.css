@@ -1,0 +1,16 @@
+.offer{
+
+    background: rgb(255,115,0);
+background: linear-gradient(90deg, rgba(255,115,0,1) 0%, rgba(121,26,9,1) 40%, rgba(255,0,125,1) 100%);
+}
+
+.lo{
+    background: linear-gradient(90deg, rgba(255,115,0,1) 0%, rgba(121,26,9,1) 40%, rgba(255,0,125,1) 100%);
+    background: rgb(255,115,0);
+}
+
+.blood{
+    background: rgb(255,115,0);
+    background: linear-gradient(90deg, rgba(255,115,0,1) 0%, rgba(121,26,9,1) 40%, rgba(255,0,125,1) 100%);
+    
+}
